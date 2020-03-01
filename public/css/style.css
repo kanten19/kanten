@@ -1,0 +1,115 @@
+
+body{
+    background: rgb(210,137,193);
+ background: linear-gradient(90deg, rgba(210,137,193,1) 0%, rgba(96,149,209,1) 100%, rgba(0,212,255,1) 100%);
+    font-family:"HanziPen TC";
+}
+
+h1{
+   font-family:"HanziPen TC";
+   color: #fffff9;
+   font-size: 100px;
+   text-align: center;
+}
+
+h2{
+    font-family: Hanzipen TC;
+    font-size: 20px;
+    color: #192955;
+    text-align: center;
+}
+
+h3{
+    font-family:HanziPen TC; 
+    border: 1px solid ;    
+    border-color: #fffff9;  ;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h3 a{
+    color: #fffff9;  
+    text-decoration: none;
+}
+
+
+h3 a:visited{
+    color: #233567;    
+}
+
+h3:hover {
+ border-color: #192f60;
+}
+
+h3:hover a{
+    color:#192f60;
+}
+
+h3 a:active{
+    color: #d2ddfa;    
+}
+
+.star img{
+    width: 150px;
+}
+
+.modal img {
+    width: 300px;
+}
+
+.star{
+    float: left;
+    margin:20px;
+}
+
+.stars{
+    width: 960px;
+    margin :0 auto;
+}
+
+.button_top{
+text-decoration: none;
+font-family:"HanziPen TC";
+   color: #fffff9;
+   transition: 1s;
+}
+
+
+nav{
+    font-size: 40px;
+    font-family: HanziPen TC;
+    text-align: center;
+    margin-top: 80px;
+}
+
+nav :hover{
+color: #233567;
+font-size: 60px;
+transition: 1s;
+}
+
+.result{
+    margin-top: 60px;
+}
+
+.home{
+    margin-left: 60px;
+    text-decoration: none;
+font-family:"HanziPen TC";
+font-size: 40px;
+   color: #233567;
+   transition: 1s;
+}
+
+.home:hover{
+    color: #fffff9;
+font-size: 60px;
+transition: 1s;
+}
+
+p{
+    margin: 0 auto;
+    text-align: center;
+    width: 800px;
+    font-size: 40px;
+}
